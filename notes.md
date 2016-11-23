@@ -10,9 +10,11 @@
 ##Why Good Research Data Management and Sharing Research Data
 - Advertisement video from DCC on Managing Research Data and why to do this http://www.dcc.ac.uk/news/managing-research-data-video
 
-##Data Life Cycle (http://www.lancaster.ac.uk/library/rdm/what-is-rdm/plan/data-lifecycle/)
+##Data Life Cycle 
+(http://www.lancaster.ac.uk/library/rdm/what-is-rdm/plan/data-lifecycle/)
 
-##Half Day workshop on creating Data Management Plans (e.g. https://dmponline.dcc.ac.uk/ https://dmp.cdlib.org/)
+##Half Day workshop on creating Data Management Plans
+(e.g. https://dmponline.dcc.ac.uk/ https://dmp.cdlib.org/)
 
 ##Half Day workshop on good Data Management?
 - Data Structure (e.g. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
