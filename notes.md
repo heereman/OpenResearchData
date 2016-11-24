@@ -47,7 +47,10 @@ Why is it necessary to manage your data properly? What should you think about wh
    - Make a overview of what should be under version control
 
 ##Half Day workshop on Archiving Data
-- The archived data set should be useful for others to use. How to make a data set valid for archiving using the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)![FAIR Principles](pictures/FAIR.png)
+- The archived data set should be useful for others to use. How to make a data set valid for archiving using the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
+
+![FAIR Principles](pictures/FAIR.png)
+
 - Which archives to use (http://www.re3data.org/ https://archive.norstore.no/ https://www.eudat.eu/)
 - To do
   - [ ] Develop exercises
