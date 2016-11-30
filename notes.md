@@ -35,7 +35,7 @@ e.g. this simple graphical expression [from Lancaster University](http://www.lan
 Why is it necessary to manage your data properly? What should you think about when working with research data
 - Data Structure (Example from this [Computational Biology paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424))
 - Folder/file naming ([Stanford University Libraries](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming), [University of Edinburgh](http://www.ed.ac.uk/records-management/records-management/staff-guidance/electronic-records/naming-conventions)
-- Metadata and documentation ([Disciplinary metadata standards](http://www.dcc.ac.uk/drupal/resources/metadata-standards), [Metadata and documentation UCD Library)](http://libguides.ucd.ie/data/doc_metadata))
+- Metadata and documentation ([Disciplinary metadata standards](http://www.dcc.ac.uk/drupal/resources/metadata-standards), [Metadata and documentation UCD Library)](http://libguides.ucd.ie/data/doc_metadata), [Introduction to Metadata from EUDAT](http://www.slideshare.net/EUDAT/introduction-to-metadata-57336324))
 - File formats ([Stanford University Libraries](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-formats), [University of Oregon](https://library.uoregon.edu/datamanagement/fileformats.html))
 - Version Control. What should be under Version Control and what not. Learning version control follow SWC courses
 - To do:
