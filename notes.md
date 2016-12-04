@@ -63,3 +63,6 @@ Why is it necessary to manage your data properly? What should you think about wh
 Use [mentimeter.com](http://www.mentimeter.com) for interactive use?
 
 Need some feedback @arnsteio @annefou
+
+Literature
+[McKiernan et al. (2016)](https://elifesciences.org/content/5/e16800%20)
