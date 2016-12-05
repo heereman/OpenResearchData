@@ -26,7 +26,7 @@ e.g. this simple graphical expression [from Lancaster University](http://www.lan
 ##Half Day workshop on creating Data Management Plans
 - What is a Research Data Management Plan and why should I make one
 - How to create proper data management plans
-- Which tools to use to generate online Data Management Plans. Examples, [DMPonline tool](https://dmponline.dcc.ac.uk/) from the DCC and the [DMPTool](https://dmp.cdlib.org/) from the University of California
+- Which tools to use to generate online Data Management Plans. Examples, [DMPonline tool](https://dmponline.dcc.ac.uk/) from the DCC, [DMPTool](https://dmp.cdlib.org/) from the University of California, [DMP Uninett](https://sigma-dmp.paas.uninett.no/) from Uninet Sigma2
 - To do
   - [ ] Develop exercises 
     - Prepare a simple project for which the participants need to make a DMP. In first instance, just as a flat document. After introducing the DMPonline tool, let them create a DMP online for the same project
